@@ -11,7 +11,7 @@
   * [Questions](#questions)
   ---
   ## Installation
-  To install, clone the repo, install the npm module inquirer, then run index.js in node from the command line
+  To install, clone the repo, install the npm module inquirer (npm i), then run index.js in node from the command line
 
   ---
   ## Usage
@@ -20,6 +20,7 @@
   ---
   ## License
   This project is under MIT, to read the license, click the link below
+  
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ---
@@ -33,6 +34,7 @@
   ---
   ### Questions
   [Github profile](https://github.com/ingrambc)
-  To ask question, you can email them to: [ingrambrianholly@hotmail.com](email)
-
+  
+  to submit issues or ask question, use the issues in the github repo at [https://github.com/ingrambc/Readme-Generator/issues](https://github.com/ingrambc/Readme-Generator/issues)
+  
   
