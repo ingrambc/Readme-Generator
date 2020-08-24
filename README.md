@@ -37,5 +37,4 @@
   
   to submit issues or ask question, use the issues in the github repo at [https://github.com/ingrambc/Readme-Generator/issues](https://github.com/ingrambc/Readme-Generator/issues)
   
-  or you can email them to: [ingrambrianholly@hotmai.com](ingrambrianholly@hotmai.com)
   
