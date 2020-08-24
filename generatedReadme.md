@@ -1,7 +1,8 @@
 
-  # Readme-Generator
-  Readme-Generator creates a readme file using inputs from command line prompts
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # title
+  description
+
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   ---
   ## Table of contents
   * [Installation](#installation)
@@ -12,28 +13,29 @@
   * [Questions](#questions)
   ---
   ## Installation
-  To install, clone the repo, install the npm module inquirer, then run index.js in node from the command line
+  install instructions
 
   ---
   ## Usage
-  To use, after install run index.js in node from the command line.  Thoroughly answer all of the prompts with the correct info.  After all prompts are answered, a readme file called generatedReadme.md will be cereated in the same directory as index.js.  You can then move that file and rename it readme.md to the repo that you made it for.
+  usage
 
   ---
   ## License
-  This project is under MIT, to read the license, click the link below
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  This project is under GPLv3, to read the license, click the link below
+
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   ---
   ## Contributing
-  To contribute to this project, submit a pull request after all changes and additions have been thouroghly tested
+  contributions
 
   ---
   ## Tests
-  
+  tests
 
   ---
   ### Questions
-  [Github profile](https://github.com/ingrambc)
-  To ask question, you can email them to: [ingrambrianholly@hotmail.com](email)
+  [Github profile](https://github.com/username)
 
+  to submit issues or ask question, use the issues in the github repo at [https://github.com/username/title/issues](https://github.com/username/title/issues)
   

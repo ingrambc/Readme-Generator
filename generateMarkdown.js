@@ -3,7 +3,7 @@ function generateMarkdown(inputs) {
   return `
   # ${inputs.projTitle}
   ${inputs.projDescription}
-  
+
   ${getLicense(inputs.license)}
   ---
   ## Table of contents
@@ -38,7 +38,8 @@ function generateMarkdown(inputs) {
   ---
   ### Questions
   [Github profile](https://github.com/${inputs.githubUser})
-  to submit issues or ask question, use the issues in the github repo at [https://github.com/${githubUser}/${projTitle}/issues](https://github.com/${githubUser}/${projTitle}/issues)
+
+  to submit issues or ask question, use the issues in the github repo at [https://github.com/${inputs.githubUser}/${inputs.projTitle}/issues](https://github.com/${inputs.githubUser}/${inputs.projTitle}/issues)
   `;
 }
 
