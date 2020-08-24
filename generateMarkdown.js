@@ -23,6 +23,7 @@ function generateMarkdown(inputs) {
   ---
   ## License
   This project is under ${inputs.license}, to read the license, click the link below
+
   ${getLicense(inputs.license)}
 
   ---
@@ -36,8 +37,7 @@ function generateMarkdown(inputs) {
   ---
   ### Questions
   [Github profile](https://github.com/${inputs.githubUser})
-  To ask question, you can email them to: [${inputs.email}](email)
-
+  to submit issues or ask question, use the issues in the github repo at [https://github.com/${githubUser}/${projTitle}/issues](https://github.com/${githubUser}/${projTitle}/issues)
   `;
 }
 
