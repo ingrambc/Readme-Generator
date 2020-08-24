@@ -1,8 +1,8 @@
 
-  # title
-  description
+  # Title of Project
+  description of project
 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
   ---
   ## Table of contents
   * [Installation](#installation)
@@ -13,29 +13,29 @@
   * [Questions](#questions)
   ---
   ## Installation
-  install instructions
+  install instructions go here
 
   ---
   ## Usage
-  usage
+  usage instructions go here
 
   ---
   ## License
-  This project is under GPLv3, to read the license, click the link below
+  This project is under BSD-3, to read the license, click the link below
 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
   ---
   ## Contributing
-  contributions
+  contribution guidelines
 
   ---
   ## Tests
-  tests
+  test explainations
 
   ---
   ### Questions
-  [Github profile](https://github.com/username)
+  [Github profile](https://github.com/UserName)
 
-  to submit issues or ask question, use the issues in the github repo at [https://github.com/username/title/issues](https://github.com/username/title/issues)
+  to submit issues or ask question, use the issues in the github repo at [https://github.com/UserName/Title of Project/issues](https://github.com/UserName/Title of Project/issues)
   
