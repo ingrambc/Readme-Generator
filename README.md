@@ -17,6 +17,8 @@
   ---
   ## Usage
   To use, after install run index.js in node from the command line.  Thoroughly answer all of the prompts with the correct info.  After all prompts are answered, a readme file called generatedReadme.md will be cereated in the same directory as index.js.  You can then move that file and rename it readme.md to the repo that you made it for.
+  
+  ![](demo.gif)
 
   ---
   ## License
