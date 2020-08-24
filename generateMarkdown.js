@@ -3,6 +3,7 @@ function generateMarkdown(inputs) {
   return `
   # ${inputs.projTitle}
   ${inputs.projDescription}
+  
   ${getLicense(inputs.license)}
   ---
   ## Table of contents
